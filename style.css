@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, pink, green);
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+
+.first-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    width: 500px;
+    background-color: lightpink;
+    padding: 20px;
+    border-radius: 8px;
+}
